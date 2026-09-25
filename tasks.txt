@@ -1,0 +1,6 @@
+101#Finish OS report#12/11/2025#3.5
+102#Review lecture notes#10/11/2025#1.5
+103#Lab 4 prelab#14/11/2025#2
+104#Buy groceries#9/11/2025#0.75
+105#Team meeting#11/11/2025#1
+106#Fix assignment bugs#13/11/2025#4
